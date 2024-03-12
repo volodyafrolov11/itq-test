@@ -1,0 +1,5 @@
+order-service/target/
+order-service/.idea/
+
+generate-order-number-service/target/
+generate-order-number-service/.idea/
